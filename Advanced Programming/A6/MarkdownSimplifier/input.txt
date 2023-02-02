@@ -1,0 +1,7 @@
+### barkhi emkanat e markdown
++ matn e *italic*
++ matn e **bold** shode
++ [link](https://google.com) ke shamel e ebarat e link shode va khode link ast.
++ tekke code be shekl e `in yek code ast`
++ mored bandi (bullet)
++ in yek![tasvir](https://picsum.photos/id/606/300)ast.
